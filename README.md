@@ -41,6 +41,4 @@ Buka `index.html` di browser. Untuk GitHub Pages, gunakan **Settings → Pages �
 - **Departemen:** Sistem Informasi
 - **Proyek:** Special Task Webdev — KPP Bayucaraka 2027
 
-## Catatan konten
 
-Visual sayuran pada website berupa ilustrasi, bukan dokumentasi foto asli kebun. Informasi produk mengikuti stok Panen Ranum dan harga tidak ditampilkan. Website menggunakan informasi usaha yang disampaikan oleh pemilik.
